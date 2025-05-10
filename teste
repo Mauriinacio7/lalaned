@@ -1,0 +1,39 @@
+!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meu site </title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+ <h1> Samuel </h1>
+
+ <img src="imagens/Corinthians.png" alt="corinthians" width="300"  height="300">
+
+
+ <nav>
+<ul>
+<li>
+<a href="amor.html">5</a>
+</li>
+<li>
+    <a href="lindona.html">lindona</a>
+</li>
+
+<li>
+    <a href="leticia.html">leticia</a>
+</li>
+
+
+
+
+</ul>
+
+
+
+    </nav>
+
+</body>
+</html>
